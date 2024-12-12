@@ -16,4 +16,4 @@ const soma = primeiroNumero * segundoNumero;
 const duplicar = soma * 2;
 let resultadoTriplicado = soma * 3;
 resultadoTriplicado = resultadoTriplicado + 5;
-console.log(resultadoTriplicado);
+console.log(typeof (primeiroNumero + segundoNumero));
